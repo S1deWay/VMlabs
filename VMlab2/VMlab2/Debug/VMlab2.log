@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+C:\Users\ASUS\source\repos\VMlab2\VMlab2\lab2.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ASUS\source\repos\VMlab2\VMlab2\lab2.cpp(82,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\ASUS\source\repos\VMlab2\VMlab2\lab2.cpp(88,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\ASUS\source\repos\VMlab2\VMlab2\lab2.cpp(129,20): warning C4018: <: несоответствие типов со знаком и без знака
+  VMlab2.vcxproj -> C:\Users\ASUS\source\repos\VMlab2\Debug\VMlab2.exe

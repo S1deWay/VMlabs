@@ -1,0 +1,4 @@
+﻿  lab 5.cpp
+C:\Users\ASUS\source\repos\VMlab5\VMlab5\lab 5.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\VMlab5\VMlab5\lab 5.cpp(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+  VMlab5.vcxproj -> C:\Users\ASUS\source\repos\VMlab5\Debug\VMlab5.exe
